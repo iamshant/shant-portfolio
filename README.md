@@ -1,2 +1,1 @@
-# shant-portfolio
-My first portfolio website
+# this is my first portfolio website
